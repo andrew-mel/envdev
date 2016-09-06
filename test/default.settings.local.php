@@ -2,7 +2,7 @@
 /**
  * @file
  * Local settings file
- *
+ *v 1.04 change
  * This file should be used to hold environment specific settings.
  *
  * Drupal variables can be overriden in this file:
